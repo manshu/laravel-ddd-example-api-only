@@ -1,6 +1,6 @@
-# Laravel DDD API Only
+# Laravel Domain Driven Development example
 
-Checkout this repository for domain driven development for API Only.
+This is an API Only version for Laravel DDD example. Checkout this repository for domain driven development for API Only.
 
 - Created API Only
 - Adding PEST for testing
