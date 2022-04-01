@@ -7,4 +7,6 @@ This is an API Only version for Laravel DDD example. Checkout this repository fo
 - [x] Handling auth via Laravel Sanctum
 
 
-<a href="https://www.buymeacoffee.com/batraio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/batraio" target="_blank"><img src="https://raw.githubusercontent.com/appcraftstudio/buymeacoffee/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee"></a>
+
+
